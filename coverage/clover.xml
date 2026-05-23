@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1779540746715" clover="3.2.0">
+  <project timestamp="1779540746715" name="All files">
+    <metrics statements="95" coveredstatements="57" conditionals="26" coveredconditionals="17" methods="23" coveredmethods="10" elements="144" coveredelements="84" complexity="0" loc="95" ncloc="95" packages="6" files="7" classes="7"/>
+    <package name="api">
+      <metrics statements="12" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+      <file name="userApi.js" path="C:\Users\hyder.shaik\OneDrive - Calsoft Pvt Ltd\Desktop\my projects\React projects\Admin DashBoard Project\react-admin-dashboard\src\api\userApi.js">
+        <metrics statements="12" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.common">
+      <metrics statements="6" coveredstatements="6" conditionals="10" coveredconditionals="10" methods="2" coveredmethods="2"/>
+      <file name="Button.jsx" path="C:\Users\hyder.shaik\OneDrive - Calsoft Pvt Ltd\Desktop\my projects\React projects\Admin DashBoard Project\react-admin-dashboard\src\components\common\Button.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="12" count="24" type="stmt"/>
+        <line num="14" count="24" type="stmt"/>
+        <line num="30" count="24" type="stmt"/>
+      </file>
+      <file name="Input.jsx" path="C:\Users\hyder.shaik\OneDrive - Calsoft Pvt Ltd\Desktop\my projects\React projects\Admin DashBoard Project\react-admin-dashboard\src\components\common\Input.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="12" count="38" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.users">
+      <metrics statements="20" coveredstatements="15" conditionals="4" coveredconditionals="3" methods="5" coveredmethods="4"/>
+      <file name="UserForm.jsx" path="C:\Users\hyder.shaik\OneDrive - Calsoft Pvt Ltd\Desktop\my projects\React projects\Admin DashBoard Project\react-admin-dashboard\src\components\users\UserForm.jsx">
+        <metrics statements="20" coveredstatements="15" conditionals="4" coveredconditionals="3" methods="5" coveredmethods="4"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="13" count="12" type="stmt"/>
+        <line num="16" count="12" type="stmt"/>
+        <line num="23" count="12" type="stmt"/>
+        <line num="26" count="12" type="stmt"/>
+        <line num="27" count="8" type="stmt"/>
+        <line num="29" count="8" type="stmt"/>
+        <line num="36" count="12" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="47" count="12" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="54" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="68" count="12" type="stmt"/>
+      </file>
+    </package>
+    <package name="context">
+      <metrics statements="45" coveredstatements="22" conditionals="4" coveredconditionals="1" methods="11" coveredmethods="3"/>
+      <file name="UserContext.jsx" path="C:\Users\hyder.shaik\OneDrive - Calsoft Pvt Ltd\Desktop\my projects\React projects\Admin DashBoard Project\react-admin-dashboard\src\context\UserContext.jsx">
+        <metrics statements="45" coveredstatements="22" conditionals="4" coveredconditionals="1" methods="11" coveredmethods="3"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="27" count="3" type="stmt"/>
+        <line num="31" count="3" type="stmt"/>
+        <line num="34" count="3" type="stmt"/>
+        <line num="37" count="3" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="63" count="3" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="72" count="0" type="stmt"/>
+        <line num="79" count="0" type="stmt"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="91" count="3" type="stmt"/>
+        <line num="95" count="0" type="stmt"/>
+        <line num="97" count="0" type="stmt"/>
+        <line num="100" count="0" type="stmt"/>
+        <line num="105" count="0" type="stmt"/>
+        <line num="106" count="0" type="stmt"/>
+        <line num="107" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="115" count="0" type="stmt"/>
+        <line num="121" count="0" type="stmt"/>
+        <line num="127" count="3" type="stmt"/>
+        <line num="129" count="0" type="stmt"/>
+        <line num="131" count="0" type="stmt"/>
+        <line num="133" count="0" type="stmt"/>
+        <line num="135" count="0" type="stmt"/>
+        <line num="136" count="0" type="stmt"/>
+        <line num="137" count="0" type="stmt"/>
+        <line num="143" count="0" type="stmt"/>
+        <line num="149" count="0" type="stmt"/>
+        <line num="155" count="3" type="stmt"/>
+        <line num="157" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="159" count="1" type="stmt"/>
+        <line num="161" count="1" type="stmt"/>
+        <line num="166" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="services">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="axiosInstance.js" path="C:\Users\hyder.shaik\OneDrive - Calsoft Pvt Ltd\Desktop\my projects\React projects\Admin DashBoard Project\react-admin-dashboard\src\services\axiosInstance.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="11" coveredstatements="9" conditionals="8" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <file name="validation.js" path="C:\Users\hyder.shaik\OneDrive - Calsoft Pvt Ltd\Desktop\my projects\React projects\Admin DashBoard Project\react-admin-dashboard\src\utils\validation.js">
+        <metrics statements="11" coveredstatements="9" conditionals="8" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="6" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="11" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="20" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
